@@ -6,6 +6,7 @@ This repository contains my hands-on practice and implementations of machine lea
 
 - Linear Regression
 - Dataset Splitting with Scikit-Learn
+- Logistic Regression 
 
 ## Tools & Technologies
 
