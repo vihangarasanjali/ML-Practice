@@ -8,6 +8,7 @@ This repository contains my hands-on practice and implementations of machine lea
 - Dataset Splitting with Scikit-Learn
 - Logistic Regression 
 - Feature Scaling
+- K-Nearest Neighbours Algorithm
 
 ## Tools & Technologies
 
