@@ -9,6 +9,7 @@ This repository contains my hands-on practice and implementations of machine lea
 - Logistic Regression 
 - Feature Scaling
 - K-Nearest Neighbours Algorithm
+- Decision Tree Algorithm
 
 ## Tools & Technologies
 
