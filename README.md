@@ -10,6 +10,7 @@ This repository contains my hands-on practice and implementations of machine lea
 - Feature Scaling
 - K-Nearest Neighbours Algorithm
 - Decision Tree Algorithm
+- Random Forest Algorithm
 
 ## Tools & Technologies
 
