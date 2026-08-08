@@ -11,6 +11,7 @@ This repository contains my hands-on practice and implementations of machine lea
 - K-Nearest Neighbours Algorithm
 - Decision Tree Algorithm
 - Random Forest Algorithm
+- Support Vector Machine
 
 ## Tools & Technologies
 
