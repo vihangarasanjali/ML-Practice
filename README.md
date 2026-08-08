@@ -12,6 +12,7 @@ This repository contains my hands-on practice and implementations of machine lea
 - Decision Tree Algorithm
 - Random Forest Algorithm
 - Support Vector Machine
+- Naive Bayes Algorithm
 
 ## Tools & Technologies
 
