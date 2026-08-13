@@ -15,6 +15,7 @@ This repository contains my hands-on practice and implementations of machine lea
 - Naive Bayes Algorithm
 - Cross Validation
 - K-means Clustering Algorithm
+- Hierarchical Clustering Algorithm
 
 ## Tools & Technologies
 
