@@ -24,6 +24,7 @@ This repository contains my hands-on practice and implementations of machine lea
 - Pandas
 - Matplotlib
 - Scikit-Learn
+- Scipy
 - Jupyter Notebook
 
 ## Purpose
