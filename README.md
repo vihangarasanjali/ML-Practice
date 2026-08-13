@@ -13,6 +13,8 @@ This repository contains my hands-on practice and implementations of machine lea
 - Random Forest Algorithm
 - Support Vector Machine
 - Naive Bayes Algorithm
+- Cross Validation
+- K-means Clustering Algorithm
 
 ## Tools & Technologies
 

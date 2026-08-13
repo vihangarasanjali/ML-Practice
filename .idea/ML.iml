@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Linear_Regression/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Supervised Learning Algorithms/Linear_Regression/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (ML) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
