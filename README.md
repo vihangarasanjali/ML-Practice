@@ -16,6 +16,7 @@ This repository contains my hands-on practice and implementations of machine lea
 - Cross Validation
 - K-means Clustering Algorithm
 - Hierarchical Clustering Algorithm
+- Distance Calculating Methods
 
 ## Tools & Technologies
 
